@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Daily Jobs",
+  "description": "Find Your Next Opportunity in Pakistan. Discover verified government, private, remote jobs and internships across Lahore, Karachi, Islamabad, and nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
